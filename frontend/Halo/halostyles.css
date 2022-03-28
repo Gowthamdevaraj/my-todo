@@ -1,0 +1,29 @@
+.head-style{
+top: 0px;
+left: 0px;
+width: 1300px;
+height: 64px;
+/* UI Properties */
+background: var(--unnamed-color-0041aa) 0% 0% no-repeat padding-box;
+background: #0041AA 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.button-div1{
+top: 175px;
+left: 483px;
+width: 838px;
+height: 230px;
+background: #F1F4F6 0% 0% no-repeat padding-box;
+border-radius: 14px;
+opacity: 1;
+
+.div-header{
+top: 0px;
+left: 0px;
+width: 1366px;
+height: 1500px;
+/* UI Properties */
+background: #F1F4F6 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
